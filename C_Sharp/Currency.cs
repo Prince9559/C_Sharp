@@ -48,7 +48,16 @@ public class Currency
         return c1.total > c2.total;
     }
 
-    
+    public static bool operator >=(Currency c1, Currency c2)
+    {
+        return c1.total >= c2.total;
+    }
+
+    public static bool operator <=(Currency c1, Currency c2)
+    {
+        return c1.total <= c2.total;
+    }
+
     public static bool operator ==(Currency c1,Currency c2)
     {
         return c1.total == c2.total;

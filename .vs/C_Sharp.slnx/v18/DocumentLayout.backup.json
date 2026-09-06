@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|solutionrelative:c_sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|d:\\c_sharp\\c_sharp\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|solutionrelative:c_sharp\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|d:\\c_sharp\\c_sharp\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|solutionrelative:c_sharp\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,19 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Currency.cs",
               "DocumentMoniker": "D:\\C_Sharp\\C_Sharp\\Currency.cs",
               "RelativeDocumentMoniker": "C_Sharp\\Currency.cs",
-              "ToolTip": "D:\\C_Sharp\\C_Sharp\\Currency.cs*",
-              "RelativeToolTip": "C_Sharp\\Currency.cs*",
-              "ViewState": "AgIAADIAAAAAmpmZmZkqwDwAAAAPAAAAAAAAAA==",
+              "ToolTip": "D:\\C_Sharp\\C_Sharp\\Currency.cs",
+              "RelativeToolTip": "C_Sharp\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T07:27:19.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank_Account.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\C_Sharp\\Bank_Account.cs",
+              "RelativeDocumentMoniker": "C_Sharp\\Bank_Account.cs",
+              "ToolTip": "D:\\C_Sharp\\C_Sharp\\Bank_Account.cs",
+              "RelativeToolTip": "C_Sharp\\Bank_Account.cs",
+              "ViewState": "AgIAADMAAAAYZWZmZmYlwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T04:34:36.369Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "C_Sharp\\Program.cs",
               "ToolTip": "D:\\C_Sharp\\C_Sharp\\Program.cs",
               "RelativeToolTip": "C_Sharp\\Program.cs",
-              "ViewState": "AgIAAAkAAABAZGZmZmYcwBcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAg/f////8uwB8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T06:53:58.758Z",
               "EditorCaption": ""

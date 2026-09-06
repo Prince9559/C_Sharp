@@ -2,6 +2,7 @@ D:\C_Sharp\C_Sharp\obj\Debug\net10.0\C_Sharp.GeneratedMSBuildEditorConfig.editor
 D:\C_Sharp\C_Sharp\obj\Debug\net10.0\C_Sharp.AssemblyInfoInputs.cache
 D:\C_Sharp\C_Sharp\obj\Debug\net10.0\C_Sharp.AssemblyInfo.cs
 D:\C_Sharp\C_Sharp\obj\Debug\net10.0\C_Sharp.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C_Sharp\obj\Debug\net10.0\C_Sharp.sourcelink.json
 D:\C_Sharp\C_Sharp\bin\Debug\net10.0\C_Sharp.exe
 D:\C_Sharp\C_Sharp\bin\Debug\net10.0\C_Sharp.deps.json
 D:\C_Sharp\C_Sharp\bin\Debug\net10.0\C_Sharp.runtimeconfig.json
