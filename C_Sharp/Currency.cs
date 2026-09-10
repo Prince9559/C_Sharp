@@ -16,6 +16,8 @@ public class Currency
 
         total = r * 100 + p;
     }
+
+
     public Currency(int r, int p)
     {
         total = r * 100 + p;

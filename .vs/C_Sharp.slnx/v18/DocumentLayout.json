@@ -11,8 +11,20 @@
       "RelativeMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|solutionrelative:c_sharp\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|d:\\c_sharp\\c_sharp\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|solutionrelative:c_sharp\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|d:\\c_sharp\\c_sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|solutionrelative:c_sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|d:\\c_sharp\\c_sharp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|solutionrelative:c_sharp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|d:\\c_sharp\\c_sharp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CB32C9-FF37-BE7E-F6DF-6AE8B47790AB}|C_Sharp\\C_Sharp.csproj|solutionrelative:c_sharp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,20 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Currency.cs",
-              "DocumentMoniker": "D:\\C_Sharp\\C_Sharp\\Currency.cs",
-              "RelativeDocumentMoniker": "C_Sharp\\Currency.cs",
-              "ToolTip": "D:\\C_Sharp\\C_Sharp\\Currency.cs",
-              "RelativeToolTip": "C_Sharp\\Currency.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAowEQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\C_Sharp\\Employee.cs",
+              "RelativeDocumentMoniker": "C_Sharp\\Employee.cs",
+              "ToolTip": "D:\\C_Sharp\\C_Sharp\\Employee.cs",
+              "RelativeToolTip": "C_Sharp\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T07:27:19.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T05:00:56.603Z"
             },
             {
               "$type": "Document",
@@ -45,23 +56,58 @@
               "RelativeDocumentMoniker": "C_Sharp\\Bank_Account.cs",
               "ToolTip": "D:\\C_Sharp\\C_Sharp\\Bank_Account.cs",
               "RelativeToolTip": "C_Sharp\\Bank_Account.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwDcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAADAMjMzM7M1wCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-05T04:34:36.369Z",
+              "WhenOpened": "2026-09-07T00:49:43.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\C_Sharp\\Person.cs",
+              "RelativeDocumentMoniker": "C_Sharp\\Person.cs",
+              "ToolTip": "D:\\C_Sharp\\C_Sharp\\Person.cs",
+              "RelativeToolTip": "C_Sharp\\Person.cs",
+              "ViewState": "AgIAAAMAAACwLjMzMzMiwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:47:07.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\C_Sharp\\Currency.cs",
+              "RelativeDocumentMoniker": "C_Sharp\\Currency.cs",
+              "ToolTip": "D:\\C_Sharp\\C_Sharp\\Currency.cs",
+              "RelativeToolTip": "C_Sharp\\Currency.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T07:27:19.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\C_Sharp\\Validation.cs",
+              "RelativeDocumentMoniker": "C_Sharp\\Validation.cs",
+              "ToolTip": "D:\\C_Sharp\\C_Sharp\\Validation.cs",
+              "RelativeToolTip": "C_Sharp\\Validation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T06:57:52.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C_Sharp\\C_Sharp\\Program.cs",
               "RelativeDocumentMoniker": "C_Sharp\\Program.cs",
               "ToolTip": "D:\\C_Sharp\\C_Sharp\\Program.cs",
               "RelativeToolTip": "C_Sharp\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAcwDoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T06:53:58.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-04T06:53:58.758Z"
             }
           ]
         }

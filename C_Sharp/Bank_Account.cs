@@ -6,17 +6,24 @@ public class Bank_Account
 	//Save
 	//date 
 	Currency zero = new Currency(0, 0);
-	int account_no;
-	string customer_name;
+	string account_no;
+	Person customer_name;
 	Currency balance;
-	
-	public Bank_Account(int account_no, string customer_name, Currency balance)
+	public Bank_Account(string account_no)
+	{
+		Console.WriteLine("Enter customer details");
+		this.customer_name = new Person();
+        Console.WriteLine("Enter balance");
+        this.balance = new Currency();
+        //Console.WriteLine("Enter account no");
+        this.account_no = "" + account_no;
+	}
+	public Bank_Account(string account_no, Person customer_name, Currency balance)
 	{
 		this.account_no = account_no;
 		this.customer_name = customer_name;
 		this.balance = balance;
 	}
-
 	public void deposite()
 	{
 		Currency amount;
