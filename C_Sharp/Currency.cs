@@ -4,6 +4,11 @@ using System.Numerics;
 public class Currency
 {
     int total;
+
+    public int Total
+    {
+        get { return total; }
+    }
     public Currency()
     {
         int r, p;

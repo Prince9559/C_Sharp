@@ -9,6 +9,22 @@ public class Bank_Account
 	string account_no;
 	Person customer_name;
 	Currency balance;
+
+	public string AccountNo
+	{
+		get { return account_no; }
+	}
+
+	public Person Customer
+	{
+		get { return customer_name; }
+	}
+
+	public Currency Balance
+	{
+		get { return balance; }
+	}
+
 	public Bank_Account(string account_no)
 	{
 		Console.WriteLine("Enter customer details");

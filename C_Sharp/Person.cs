@@ -7,6 +7,26 @@ public class Person
     string address;
     int age;
 
+    public string Name
+    {
+        get { return name; }
+    }
+
+    public string Mobile
+    {
+        get { return mobile; }
+    }
+
+    public string Address
+    {
+        get { return address; }
+    }
+
+    public int Age
+    {
+        get { return age; }
+    }
+
     public Person()
     {
         Console.Write("Enter the Customer Name : ");
